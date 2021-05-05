@@ -25,11 +25,9 @@
 /* Begin PBXFileReference section */
 		25295E86259A5E5A0005D32C /* TheInterview */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TheInterview; sourceTree = BUILT_PRODUCTS_DIR; };
 		25295E89259A5E5A0005D32C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		25295E93259A5F8C0005D32C /* 238_Product_Of_Array_Except_Self.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 238_Product_Of_Array_Except_Self.h; sourceTree = "<group>"; };
-		25295E99259A7FBA0005D32C /* 136_Single_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 136_Single_Number.h; sourceTree = "<group>"; };
-		25295E9C259A856F0005D32C /* Helper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Helper.h; sourceTree = "<group>"; };
-		2573ECD1259B8AF7000144CB /* 88_Merge_Sorted_Arrays.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 88_Merge_Sorted_Arrays.h; sourceTree = "<group>"; };
-		2573ECD3259BA5DC000144CB /* 1_Two_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_Two_Sum.h; sourceTree = "<group>"; };
+		256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 141_LinkedList_Cycle.h; sourceTree = "<group>"; };
+		256F0FFA2643377600589939 /* Libraries.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libraries.h; sourceTree = "<group>"; };
+		2588D85726260FF800B875A6 /* 1_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_TwoSum.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,11 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				25295E89259A5E5A0005D32C /* main.cpp */,
-				2573ECD3259BA5DC000144CB /* 1_Two_Sum.h */,
-				2573ECD1259B8AF7000144CB /* 88_Merge_Sorted_Arrays.h */,
-				25295E99259A7FBA0005D32C /* 136_Single_Number.h */,
-				25295E93259A5F8C0005D32C /* 238_Product_Of_Array_Except_Self.h */,
-				25295E9C259A856F0005D32C /* Helper.h */,
+				256F0FFA2643377600589939 /* Libraries.h */,
+				2588D85726260FF800B875A6 /* 1_TwoSum.h */,
+				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
 			);
 			path = TheInterview;
 			sourceTree = "<group>";
@@ -98,7 +94,7 @@
 		25295E7E259A5E5A0005D32C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1230;
+				LastUpgradeCheck = 1240;
 				TargetAttributes = {
 					25295E85259A5E5A0005D32C = {
 						CreatedOnToolsVersion = 12.3;
@@ -249,6 +245,7 @@
 		25295E8E259A5E5A0005D32C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2BNS7WZJ58;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -259,6 +256,7 @@
 		25295E8F259A5E5A0005D32C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2BNS7WZJ58;
 				ENABLE_HARDENED_RUNTIME = YES;
