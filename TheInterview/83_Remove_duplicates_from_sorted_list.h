@@ -17,7 +17,6 @@
 
 #ifndef _3_Remove_duplicates_from_sorted_list_h
 #define _3_Remove_duplicates_from_sorted_list_h
-#include "Helper/Libraries.h"
 
 ListNode* deleteDuplicates(ListNode* head) {
     
