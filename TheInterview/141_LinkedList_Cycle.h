@@ -15,25 +15,22 @@
 #ifndef _41_LinkedList_Cycle_h
 #define _41_LinkedList_Cycle_h
 
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
-        if (head == NULL || head->next == NULL) {
+bool hasCycle(ListNode *head) {
+    if (head == NULL || head->next == NULL) {
+        return true;
+    }
+    ListNode* fast = head;
+    ListNode* slow = head;
+    
+    while(fast != NULL && fast->next != NULL){
+        fast = fast->next->next;
+        slow = slow->next;
+        if (slow == fast) {
             return true;
         }
-        ListNode* fast = head;
-        ListNode* slow = head;
-        
-        while(fast != NULL && fast->next != NULL){
-            fast = fast->next->next;
-            slow = slow->next;
-            if (slow == fast) {
-                return true;
-            }
-        }
-        return false;
     }
-};
+    return false;
+}
 
 #endif /* _41_LinkedList_Cycle_h */
 

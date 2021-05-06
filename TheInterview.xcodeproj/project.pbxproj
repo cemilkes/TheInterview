@@ -27,6 +27,7 @@
 		25295E89259A5E5A0005D32C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 141_LinkedList_Cycle.h; sourceTree = "<group>"; };
 		256F0FFA2643377600589939 /* Libraries.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libraries.h; sourceTree = "<group>"; };
+		256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 876_Middle_of_the_LL.h; sourceTree = "<group>"; };
 		2588D85726260FF800B875A6 /* 1_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_TwoSum.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +65,7 @@
 				256F0FFA2643377600589939 /* Libraries.h */,
 				2588D85726260FF800B875A6 /* 1_TwoSum.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
+				256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */,
 			);
 			path = TheInterview;
 			sourceTree = "<group>";
