@@ -13,7 +13,10 @@
 #include <set>
 #include <unordered_set>
 
+#include "Helper_Functions.h"
+#include "ListNode.h"
 #include "1_TwoSum.h"
+#include "83_Remove_duplicates_from_sorted_list.h"
 #include "141_LinkedList_Cycle.h"
 #include "876_Middle_of_the_LL.h"
 
