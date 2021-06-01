@@ -16,6 +16,7 @@
 #include "Helper_Functions.h"
 #include "ListNode.h"
 #include "1_TwoSum.h"
+#include "7_Reverse_Integer.h"
 #include "19_Remove_the_Nth_Node_From_The_End.h"
 #include "82_Remove_Duplicates_From_Sorted_List_II.h"
 #include "83_Remove_duplicates_from_sorted_list.h"
