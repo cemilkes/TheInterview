@@ -15,8 +15,8 @@
  * };
  */
 
-#ifndef _3_Remove_duplicates_from_sorted_list_h
-#define _3_Remove_duplicates_from_sorted_list_h
+#ifndef _83_Remove_duplicates_from_sorted_list_h
+#define _83_Remove_duplicates_from_sorted_list_h
 
 ListNode* deleteDuplicates(ListNode* head) {
     
@@ -36,7 +36,7 @@ ListNode* deleteDuplicates(ListNode* head) {
     return head;
 }
 
-#endif /* _3_Remove_duplicates_from_sorted_list_h */
+#endif /* _83_Remove_duplicates_from_sorted_list_h */
 
 // MARK: - #MAIN
 /*

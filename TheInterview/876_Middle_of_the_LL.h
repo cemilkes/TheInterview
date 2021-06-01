@@ -14,8 +14,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-#ifndef _76_Middle_of_the_LL_h
-#define _76_Middle_of_the_LL_h
+#ifndef _876_Middle_of_the_LL_h
+#define _876_Middle_of_the_LL_h
 
 ListNode* middleNode(ListNode* head) {
     if(head == NULL || head->next == NULL){ return head; }
@@ -46,4 +46,4 @@ ListNode* middleNode(ListNode* head) {
 
  */
 
-#endif /* _76_Middle_of_the_LL_h */
+#endif /* _876_Middle_of_the_LL_h */

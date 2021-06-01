@@ -33,7 +33,9 @@
 		256F0FFF26445B4300589939 /* Helper_Functions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Helper_Functions.h; sourceTree = "<group>"; };
 		256F1000264468AA00589939 /* 1836_Remove_Duplicates_From_Unsorted_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1836_Remove_Duplicates_From_Unsorted_LL.h; sourceTree = "<group>"; };
 		2588D85726260FF800B875A6 /* 1_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_TwoSum.h; sourceTree = "<group>"; };
+		259DBD3426669782000F2CB6 /* 344_Reverse_String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 344_Reverse_String.h; sourceTree = "<group>"; };
 		25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 82_Remove_Duplicates_From_Sorted_List_II.h; sourceTree = "<group>"; };
+		25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 19_Remove_the_Nth_Node_From_The_End.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +71,11 @@
 				25295E89259A5E5A0005D32C /* main.cpp */,
 				256F0FFD26445A3300589939 /* Helper */,
 				2588D85726260FF800B875A6 /* 1_TwoSum.h */,
+				25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */,
 				25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */,
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
+				259DBD3426669782000F2CB6 /* 344_Reverse_String.h */,
 				256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */,
 				256F1000264468AA00589939 /* 1836_Remove_Duplicates_From_Unsorted_LL.h */,
 			);

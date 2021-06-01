@@ -15,8 +15,8 @@
  * };
  */
 
-#ifndef _41_LinkedList_Cycle_h
-#define _41_LinkedList_Cycle_h
+#ifndef _141_LinkedList_Cycle_h
+#define _141_LinkedList_Cycle_h
 
 bool hasCycle(ListNode *head) {
     if (head == NULL || head->next == NULL) {
@@ -35,7 +35,7 @@ bool hasCycle(ListNode *head) {
     return false;
 }
 
-#endif /* _41_LinkedList_Cycle_h */
+#endif /* _141_LinkedList_Cycle_h */
 
 
 // MARK: - #MAIN
