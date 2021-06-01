@@ -11,7 +11,7 @@
 int reverse(int x) {
     
     if(x < INT_MIN || x > INT_MAX){return 0;}
-    long long reversedNumber = 0;
+    int reversedNumber = 0;
     
     while(x){
         reversedNumber = reversedNumber * 10 + x % 10;

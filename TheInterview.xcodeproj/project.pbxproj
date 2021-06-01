@@ -26,6 +26,7 @@
 		25295E86259A5E5A0005D32C /* TheInterview */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TheInterview; sourceTree = BUILT_PRODUCTS_DIR; };
 		25295E89259A5E5A0005D32C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2553A5862666A30900D8A8EC /* 7_Reverse_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 7_Reverse_Integer.h; sourceTree = "<group>"; };
+		2553A5872666D4C500D8A8EC /* 387_First_Unique_Char_In_a_String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 387_First_Unique_Char_In_a_String.h; sourceTree = "<group>"; };
 		256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 141_LinkedList_Cycle.h; sourceTree = "<group>"; };
 		256F0FFA2643377600589939 /* Libraries.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libraries.h; sourceTree = "<group>"; };
 		256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 876_Middle_of_the_LL.h; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
 				259DBD3426669782000F2CB6 /* 344_Reverse_String.h */,
+				2553A5872666D4C500D8A8EC /* 387_First_Unique_Char_In_a_String.h */,
 				256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */,
 				256F1000264468AA00589939 /* 1836_Remove_Duplicates_From_Unsorted_LL.h */,
 			);

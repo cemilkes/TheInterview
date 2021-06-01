@@ -22,6 +22,7 @@
 #include "83_Remove_duplicates_from_sorted_list.h"
 #include "141_LinkedList_Cycle.h"
 #include "344_Reverse_String.h"
+#include "387_First_Unique_Char_In_a_String.h"
 #include "876_Middle_of_the_LL.h"
 #include "1836_Remove_Duplicates_From_Unsorted_LL.h"
 
