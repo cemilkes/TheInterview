@@ -13,7 +13,8 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
- 
+    int x = 19;
+    cout << isHappy(19);
     
     cout << endl;
     return 0;

@@ -22,6 +22,7 @@
 #include "82_Remove_Duplicates_From_Sorted_List_II.h"
 #include "83_Remove_duplicates_from_sorted_list.h"
 #include "141_LinkedList_Cycle.h"
+#include "202_Happy_Number.h"
 #include "268_Find_Missing_Number.h"
 #include "344_Reverse_String.h"
 #include "387_First_Unique_Char_In_a_String.h"

@@ -30,6 +30,7 @@
 		2553A5882666FABA00D8A8EC /* 2_Add_Two_Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 2_Add_Two_Numbers.h; sourceTree = "<group>"; };
 		2553A5902669444400D8A8EC /* 771_Jewels_and_Stones.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 771_Jewels_and_Stones.h; sourceTree = "<group>"; };
 		2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 268_Find_Missing_Number.h; sourceTree = "<group>"; };
+		2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 202_Happy_Number.h; sourceTree = "<group>"; };
 		256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 141_LinkedList_Cycle.h; sourceTree = "<group>"; };
 		256F0FFA2643377600589939 /* Libraries.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libraries.h; sourceTree = "<group>"; };
 		256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 876_Middle_of_the_LL.h; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 				25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */,
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
+				2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */,
 				2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */,
 				259DBD3426669782000F2CB6 /* 344_Reverse_String.h */,
 				2553A5872666D4C500D8A8EC /* 387_First_Unique_Char_In_a_String.h */,
