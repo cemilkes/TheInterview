@@ -12,13 +12,16 @@
 #include <unordered_map>
 #include <set>
 #include <unordered_set>
+#include <stack>
 
 #include "Helper_Functions.h"
 #include "ListNode.h"
 #include "1_TwoSum.h"
 #include "2_Add_Two_Numbers.h"
 #include "7_Reverse_Integer.h"
+#include "8_Stoi.h"
 #include "19_Remove_the_Nth_Node_From_The_End.h"
+#include "20_Valid_Parentheses.h"
 #include "82_Remove_Duplicates_From_Sorted_List_II.h"
 #include "83_Remove_duplicates_from_sorted_list.h"
 #include "141_LinkedList_Cycle.h"

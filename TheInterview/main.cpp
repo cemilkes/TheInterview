@@ -13,8 +13,9 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    int x = 19;
-    cout << isHappy(19);
+    string s = "[](){}";
+    
+    cout << isValid(s);
     
     cout << endl;
     return 0;
