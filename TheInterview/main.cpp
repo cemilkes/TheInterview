@@ -13,8 +13,6 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    string s = "LVIII";
-    cout << romanToInt(s);
-    cout << endl;
+   
     return 0;
 }
