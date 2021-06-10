@@ -44,6 +44,8 @@
 		25A15CFD266FD61D00529665 /* 20_Valid_Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 20_Valid_Parentheses.h; sourceTree = "<group>"; };
 		25A15CFE266FE7BA00529665 /* 13_Roman_to_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 13_Roman_to_Integer.h; sourceTree = "<group>"; };
 		25A15CFF26716B8200529665 /* 206_Reverse_LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 206_Reverse_LinkedList.h; sourceTree = "<group>"; };
+		25A15D0026718AE200529665 /* 155_Min_Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 155_Min_Stack.h; sourceTree = "<group>"; };
+		25A15D012672780F00529665 /* Top_K_Largest_Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Top_K_Largest_Numbers.h; sourceTree = "<group>"; };
 		25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 82_Remove_Duplicates_From_Sorted_List_II.h; sourceTree = "<group>"; };
 		25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 19_Remove_the_Nth_Node_From_The_End.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -90,6 +92,7 @@
 				25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */,
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
+				25A15D0026718AE200529665 /* 155_Min_Stack.h */,
 				2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */,
 				25A15CFF26716B8200529665 /* 206_Reverse_LinkedList.h */,
 				2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */,
@@ -98,6 +101,7 @@
 				2553A5902669444400D8A8EC /* 771_Jewels_and_Stones.h */,
 				256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */,
 				256F1000264468AA00589939 /* 1836_Remove_Duplicates_From_Unsorted_LL.h */,
+				25A15D012672780F00529665 /* Top_K_Largest_Numbers.h */,
 			);
 			path = TheInterview;
 			sourceTree = "<group>";
