@@ -27,6 +27,7 @@
 #include "20_Valid_Parentheses.h"
 #include "82_Remove_Duplicates_From_Sorted_List_II.h"
 #include "83_Remove_duplicates_from_sorted_list.h"
+#include "136_Single_Number.h"
 #include "141_LinkedList_Cycle.h"
 #include "142_LinkedList_Cycle_II.h"
 #include "155_Min_Stack.h"
