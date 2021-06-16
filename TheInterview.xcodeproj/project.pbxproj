@@ -47,6 +47,7 @@
 		25A15D0026718AE200529665 /* 155_Min_Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 155_Min_Stack.h; sourceTree = "<group>"; };
 		25A15D012672780F00529665 /* Top_K_Largest_Numbers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Top_K_Largest_Numbers.h; sourceTree = "<group>"; };
 		25A15D022672A99A00529665 /* Kth_Smallest_Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Kth_Smallest_Element.h; sourceTree = "<group>"; };
+		25D20BE926797BFB0044FF4E /* 142_LinkedList_Cycle_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 142_LinkedList_Cycle_II.h; sourceTree = "<group>"; };
 		25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 82_Remove_Duplicates_From_Sorted_List_II.h; sourceTree = "<group>"; };
 		25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 19_Remove_the_Nth_Node_From_The_End.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,6 +94,7 @@
 				25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */,
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
+				25D20BE926797BFB0044FF4E /* 142_LinkedList_Cycle_II.h */,
 				25A15D0026718AE200529665 /* 155_Min_Stack.h */,
 				2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */,
 				25A15CFF26716B8200529665 /* 206_Reverse_LinkedList.h */,
