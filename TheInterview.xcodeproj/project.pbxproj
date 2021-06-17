@@ -49,6 +49,7 @@
 		25A15D022672A99A00529665 /* Kth_Smallest_Element.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Kth_Smallest_Element.h; sourceTree = "<group>"; };
 		25D20BE926797BFB0044FF4E /* 142_LinkedList_Cycle_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 142_LinkedList_Cycle_II.h; sourceTree = "<group>"; };
 		25D20BEA267A47F60044FF4E /* 136_Single_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 136_Single_Number.h; sourceTree = "<group>"; };
+		25D20BEB267BCE240044FF4E /* 232_Implement_Queue_Using_Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 232_Implement_Queue_Using_Stack.h; sourceTree = "<group>"; };
 		25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 82_Remove_Duplicates_From_Sorted_List_II.h; sourceTree = "<group>"; };
 		25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 19_Remove_the_Nth_Node_From_The_End.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,6 +101,7 @@
 				25A15D0026718AE200529665 /* 155_Min_Stack.h */,
 				2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */,
 				25A15CFF26716B8200529665 /* 206_Reverse_LinkedList.h */,
+				25D20BEB267BCE240044FF4E /* 232_Implement_Queue_Using_Stack.h */,
 				2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */,
 				259DBD3426669782000F2CB6 /* 344_Reverse_String.h */,
 				2553A5872666D4C500D8A8EC /* 387_First_Unique_Char_In_a_String.h */,
