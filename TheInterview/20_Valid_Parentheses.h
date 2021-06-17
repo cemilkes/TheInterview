@@ -47,3 +47,22 @@ bool isValid(string s) {
 }
 
 #endif /* _0_Valid_Parentheses_h */
+
+/*
+        stack<char> sta;
+         for(char &c: s){
+             switch(c) {
+                 case '(':
+                 case '{':
+                 case '[': sta.push(c); break;
+                     
+                 case ')': if(sta.empty() || sta.top() != '(') return false; else sta.pop(); break;
+                 case '}': if(sta.empty() || sta.top() != '{') return false; else sta.pop(); break;
+                 case ']': if(sta.empty() || sta.top() != '[') return false; else sta.pop(); break;
+                 
+                 default: ; // pass
+                     
+             }
+         }
+         return sta.empty();
+ */
