@@ -37,6 +37,8 @@
 #include "268_Find_Missing_Number.h"
 #include "344_Reverse_String.h"
 #include "387_First_Unique_Char_In_a_String.h"
+#include "705_Design_Hashset.h"
+#include "706_Design_Hashmap.h"
 #include "771_Jewels_and_Stones.h"
 #include "876_Middle_of_the_LL.h"
 #include "1249_Min_Remove_to_Make_Valid_Parentheses.h"
