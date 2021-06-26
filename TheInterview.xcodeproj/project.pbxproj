@@ -27,6 +27,8 @@
 		25294A9F2682670C007E95F4 /* 706_Design_Hashmap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 706_Design_Hashmap.h; sourceTree = "<group>"; };
 		25294AA0268633E8007E95F4 /* 104_Maximum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 104_Maximum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
 		25294AA126863411007E95F4 /* TreeNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TreeNode.h; sourceTree = "<group>"; };
+		25294AA22686552D007E95F4 /* 102_Binary_Tree_Level_Order_Traversal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 102_Binary_Tree_Level_Order_Traversal.h; sourceTree = "<group>"; };
+		25294AA326868B8A007E95F4 /* 199_Binary_Tree_Right_Side_View.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 199_Binary_Tree_Right_Side_View.h; sourceTree = "<group>"; };
 		25295E86259A5E5A0005D32C /* TheInterview */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TheInterview; sourceTree = BUILT_PRODUCTS_DIR; };
 		25295E89259A5E5A0005D32C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		2553A5862666A30900D8A8EC /* 7_Reverse_Integer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 7_Reverse_Integer.h; sourceTree = "<group>"; };
@@ -102,11 +104,13 @@
 				25FB951A268104FC00648595 /* 34_Find_First_and_Last_Position.h */,
 				25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */,
 				256F0FFC26444B7800589939 /* 83_Remove_duplicates_from_sorted_list.h */,
+				25294AA22686552D007E95F4 /* 102_Binary_Tree_Level_Order_Traversal.h */,
 				25294AA0268633E8007E95F4 /* 104_Maximum_Depth_of_Binary_Tree.h */,
 				25D20BEA267A47F60044FF4E /* 136_Single_Number.h */,
 				256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */,
 				25D20BE926797BFB0044FF4E /* 142_LinkedList_Cycle_II.h */,
 				25A15D0026718AE200529665 /* 155_Min_Stack.h */,
+				25294AA326868B8A007E95F4 /* 199_Binary_Tree_Right_Side_View.h */,
 				2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */,
 				25A15CFF26716B8200529665 /* 206_Reverse_LinkedList.h */,
 				25D20BEB267BCE240044FF4E /* 232_Implement_Queue_Using_Stack.h */,
