@@ -5,7 +5,7 @@
 //  Created by Mr Kes on 6/17/21.
 //
 
-#ifndef _1249_Min_Remove_to_Make_Valid_Parentheses.h
+#ifndef _1249_Min_Remove_to_Make_Valid_Parentheses
 #define _1249_Min_Remove_to_Make_Valid_Parentheses
 string minRemoveToMakeValid(string s) {
         

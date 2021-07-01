@@ -9,12 +9,13 @@
 #include <iostream>
 #include "Helper/Libraries.h"
 #include "Helper/ListNode.h"
+#include "CTCI/Chapter-1/IsUniqueChars.h"
+
 using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    string s = "asdfghjkl";
-    cout << boolalpha <<containsDuplicate(s);
+    
     
     return 0;
 }
