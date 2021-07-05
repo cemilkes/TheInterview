@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		25063607268E31DD0009CAC7 /* 217_Contains_Duplicate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 217_Contains_Duplicate.h; sourceTree = "<group>"; };
 		2506360A268E3D790009CAC7 /* IsUniqueChars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IsUniqueChars.h; sourceTree = "<group>"; };
+		2506364D269382350009CAC7 /* Sliding_Window.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sliding_Window.h; sourceTree = "<group>"; };
 		25294A9E26825346007E95F4 /* 705_Design_Hashset.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 705_Design_Hashset.h; sourceTree = "<group>"; };
 		25294A9F2682670C007E95F4 /* 706_Design_Hashmap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 706_Design_Hashmap.h; sourceTree = "<group>"; };
 		25294AA0268633E8007E95F4 /* 104_Maximum_Depth_of_Binary_Tree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 104_Maximum_Depth_of_Binary_Tree.h; sourceTree = "<group>"; };
@@ -92,6 +93,14 @@
 			path = "Chapter-1";
 			sourceTree = "<group>";
 		};
+		2506364E2693823E0009CAC7 /* Patterns */ = {
+			isa = PBXGroup;
+			children = (
+				2506364D269382350009CAC7 /* Sliding_Window.h */,
+			);
+			path = Patterns;
+			sourceTree = "<group>";
+		};
 		25295E7D259A5E5A0005D32C = {
 			isa = PBXGroup;
 			children = (
@@ -113,6 +122,7 @@
 			children = (
 				25295E89259A5E5A0005D32C /* main.cpp */,
 				256F0FFD26445A3300589939 /* Helper */,
+				2506364E2693823E0009CAC7 /* Patterns */,
 				25063608268E3D240009CAC7 /* CTCI */,
 				2588D85726260FF800B875A6 /* 1_TwoSum.h */,
 				2553A5882666FABA00D8A8EC /* 2_Add_Two_Numbers.h */,
