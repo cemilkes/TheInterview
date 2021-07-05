@@ -8,7 +8,9 @@
 #ifndef Sliding_Window_h
 #define Sliding_Window_h
 
-//First Approach
+// Question: Given an array, find the average of all contiguous subarrays of size ‘K’ in it.
+
+//First Approach O(N * K)
 class AverageOfSubarrayOfSizeK {
  public:
   static vector<double> findAverages(int K, const vector<int>& arr) {
@@ -33,7 +35,7 @@ class AverageOfSubarrayOfSizeK {
  */
 
 
-//Efficient Approach
+//Efficient Approach O(N)
 class AverageOfSubarrayOfSizeK_Second {
  public:
   static vector<double> findAverages(int K, const vector<int>& arr) {
@@ -54,7 +56,9 @@ class AverageOfSubarrayOfSizeK_Second {
   }
 };
 
-
+/*
+ In some problems, the size of the sliding window is not fixed. We have to expand or shrink the window based on the problem constraints. We will see a few examples of such problems in the next chapters.
+ */
 
 #endif /* Sliding_Window_h */
 
