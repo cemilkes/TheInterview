@@ -50,3 +50,30 @@ vector<int> twoSum(vector<int>& nums, int target) {
      cout << x << " ";
  }
  */
+
+// MARK: - PAIR WITH TARGET SUM - SORTED ARRAY
+/*
+ class PairWithTargetSum {
+  public:
+   static pair<int, int> searchPair(const vector<int>& arr, int targetSum) {
+     // TODO: Write your code here
+     int left = 0;
+     int right = arr.size() - 1;
+     while(left < right){
+       int currentSum = arr[left] + arr[right];
+       if(currentSum > targetSum){
+         right--;
+       }else if(currentSum < targetSum){
+         left++;
+       }else{
+         return make_pair(left, right);
+       }
+     }
+     return make_pair(-1, -1);
+   }
+ };
+ */
+
+// MARK: - MAIN
+//auto result = searchPair(vector<int>{1,2,3,4,5,6}, 6);
+//cout << result;
