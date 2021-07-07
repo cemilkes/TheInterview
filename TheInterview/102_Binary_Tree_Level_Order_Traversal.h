@@ -15,10 +15,13 @@ vector<vector<int>> levelOrder(TreeNode* root) {
     while(q.empty() == false){
         int length = q.size();
         vector<int> row;
+        
         while(length--){
+            
             TreeNode* node = q.front();
             q.pop();
             row.push_back(node->val);
+            
             if(node->left != NULL){
                 q.push(node->left);
             }
@@ -26,7 +29,6 @@ vector<vector<int>> levelOrder(TreeNode* root) {
             if(node->right != NULL){
                 q.push(node->right);
             }
-            
         }
         v.push_back(row);
     }

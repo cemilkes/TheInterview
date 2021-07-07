@@ -30,6 +30,7 @@
 #include "83_Remove_duplicates_from_sorted_list.h"
 #include "102_Binary_Tree_Level_Order_Traversal.h"
 #include "104_Maximum_Depth_of_Binary_Tree.h"
+#include "112_Path_Sum.h"
 #include "136_Single_Number.h"
 #include "141_LinkedList_Cycle.h"
 #include "142_LinkedList_Cycle_II.h"
