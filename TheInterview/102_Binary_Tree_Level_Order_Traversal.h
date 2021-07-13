@@ -12,6 +12,7 @@ vector<vector<int>> levelOrder(TreeNode* root) {
     vector<vector<int>> v;
     queue<TreeNode*> q;
     if(root){ q.push(root);}
+    
     while(q.empty() == false){
         int length = q.size();
         vector<int> row;

@@ -63,6 +63,7 @@
 		25D20BEA267A47F60044FF4E /* 136_Single_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 136_Single_Number.h; sourceTree = "<group>"; };
 		25D20BEB267BCE240044FF4E /* 232_Implement_Queue_Using_Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 232_Implement_Queue_Using_Stack.h; sourceTree = "<group>"; };
 		25D20BEC267BE3300044FF4E /* 1249_Min_Remove_to_Make_Valid_Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1249_Min_Remove_to_Make_Valid_Parentheses.h; sourceTree = "<group>"; };
+		25DC934D269D2BC000F093CF /* 348_Design_Tic_Tac_Toe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 348_Design_Tic_Tac_Toe.h; sourceTree = "<group>"; };
 		25E03FEA264496A900537B6B /* 82_Remove_Duplicates_From_Sorted_List_II.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 82_Remove_Duplicates_From_Sorted_List_II.h; sourceTree = "<group>"; };
 		25E03FEB26449A6200537B6B /* 19_Remove_the_Nth_Node_From_The_End.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 19_Remove_the_Nth_Node_From_The_End.h; sourceTree = "<group>"; };
 		25FB951A268104FC00648595 /* 34_Find_First_and_Last_Position.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 34_Find_First_and_Last_Position.h; sourceTree = "<group>"; };
@@ -160,6 +161,7 @@
 				25D20BEB267BCE240044FF4E /* 232_Implement_Queue_Using_Stack.h */,
 				2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */,
 				259DBD3426669782000F2CB6 /* 344_Reverse_String.h */,
+				25DC934D269D2BC000F093CF /* 348_Design_Tic_Tac_Toe.h */,
 				2553A5872666D4C500D8A8EC /* 387_First_Unique_Char_In_a_String.h */,
 				25294A9E26825346007E95F4 /* 705_Design_Hashset.h */,
 				25294A9F2682670C007E95F4 /* 706_Design_Hashmap.h */,
