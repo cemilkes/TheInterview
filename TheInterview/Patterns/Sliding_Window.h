@@ -34,7 +34,6 @@ class AverageOfSubarrayOfSizeK {
  The inefficiency is that for any two consecutive subarrays of size ‘5’, the overlapping part (which will contain four elements) will be evaluated twice. For example, take the above-mentioned input:
  */
 
-
 //Efficient Approach O(N)
 class AverageOfSubarrayOfSizeK_Second {
  public:

@@ -50,6 +50,8 @@
 		256F0FFE26445A3D00589939 /* ListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ListNode.h; sourceTree = "<group>"; };
 		256F0FFF26445B4300589939 /* Helper_Functions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Helper_Functions.h; sourceTree = "<group>"; };
 		256F1000264468AA00589939 /* 1836_Remove_Duplicates_From_Unsorted_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1836_Remove_Duplicates_From_Unsorted_LL.h; sourceTree = "<group>"; };
+		2579411A26A764FE006862C3 /* Two_Pointers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Two_Pointers.h; sourceTree = "<group>"; };
+		2579411B26A78475006862C3 /* Fast_Slow_Pointers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fast_Slow_Pointers.h; sourceTree = "<group>"; };
 		2588D85726260FF800B875A6 /* 1_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_TwoSum.h; sourceTree = "<group>"; };
 		2596829F269625D600B54AA0 /* 112_Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 112_Path_Sum.h; sourceTree = "<group>"; };
 		259DBD3426669782000F2CB6 /* 344_Reverse_String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 344_Reverse_String.h; sourceTree = "<group>"; };
@@ -100,6 +102,8 @@
 			isa = PBXGroup;
 			children = (
 				2506364D269382350009CAC7 /* Sliding_Window.h */,
+				2579411A26A764FE006862C3 /* Two_Pointers.h */,
+				2579411B26A78475006862C3 /* Fast_Slow_Pointers.h */,
 			);
 			path = Patterns;
 			sourceTree = "<group>";
