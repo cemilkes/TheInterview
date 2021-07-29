@@ -10,31 +10,19 @@
 #include "Helper/Libraries.h"
 #include "Helper/ListNode.h"
 #include "CTCI/Chapter-1/IsUniqueChars.h"
+#include "Patterns/MergeIntervals.h"
 
 using namespace std;
-bool validTicTacToe(vector<string>& board) {
-    
-    vector<vector<char>> newBoard;
-    
-    for(int i = 0; i < board.size(); i++){
-        string s = board[i];
-        
-        for(int j = 0; j < 3; j++){
-            char ch = s[j];
-            
-            
-            
-        }
-        
-        
-    }
-}
-
-
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    
-    
+    vector<Interval> input = {{6, 7}, {2, 4}, {5, 9}};
+      cout << "Merged intervals: ";
+      for (auto interval : MergeIntervals::merge(input)) {
+        cout << "[" << interval.start << "," << interval.end << "] ";
+      }
+      cout << endl;
+
+  
     return 0;
 }
