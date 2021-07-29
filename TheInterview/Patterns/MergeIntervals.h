@@ -7,6 +7,10 @@
 
 #ifndef MergeIntervals_h
 #define MergeIntervals_h
+
+// Simple and good solution with perfect video
+/*  https://leetcode.com/problems/merge-intervals/solution/ */
+
 class Interval {
  public:
   int start = 0;
@@ -33,7 +37,7 @@ class MergeIntervals {
 
     vector<Interval>::const_iterator intervalItr = intervals.begin();
       
-    Interval interval = *intervalItr++;
+    Interval interval = *intervalItr;
     int start = interval.start;
       cout << " start: "<< start << "  ";
       
