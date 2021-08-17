@@ -11,18 +11,13 @@
 #include "Helper/ListNode.h"
 #include "CTCI/Chapter-1/IsUniqueChars.h"
 #include "Patterns/MergeIntervals.h"
+#include "Random/GenerateBinaryNumbers_Q.h"
 
 using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    vector<Interval> input = {{6, 7}, {2, 4}, {5, 9}};
-      cout << "Merged intervals: ";
-      for (auto interval : MergeIntervals::merge(input)) {
-        cout << "[" << interval.start << "," << interval.end << "] ";
-      }
-      cout << endl;
 
-  
+int main(int argc, const char * argv[]) {
+ 
+    
     return 0;
 }
