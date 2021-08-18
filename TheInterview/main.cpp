@@ -12,6 +12,7 @@
 #include "CTCI/Chapter-1/IsUniqueChars.h"
 #include "Patterns/MergeIntervals.h"
 #include "Random/GenerateBinaryNumbers_Q.h"
+#include "Random/Find_Min_Value_In_BST.h"
 
 using namespace std;
 
