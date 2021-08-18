@@ -57,6 +57,8 @@
 		2588D85726260FF800B875A6 /* 1_TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 1_TwoSum.h; sourceTree = "<group>"; };
 		25921E4426CC7B1D0052A652 /* GenerateBinaryNumbers_Q.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GenerateBinaryNumbers_Q.h; sourceTree = "<group>"; };
 		25921E4626CD6F970052A652 /* Find_Min_Value_In_BST.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Find_Min_Value_In_BST.h; sourceTree = "<group>"; };
+		25921E4726CD713E0052A652 /* TrieNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TrieNode.h; sourceTree = "<group>"; };
+		25921E4826CD765C0052A652 /* Total_Numbers_of_Words_in_Trie.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Total_Numbers_of_Words_in_Trie.h; sourceTree = "<group>"; };
 		2596829F269625D600B54AA0 /* 112_Path_Sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 112_Path_Sum.h; sourceTree = "<group>"; };
 		259DBD3426669782000F2CB6 /* 344_Reverse_String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 344_Reverse_String.h; sourceTree = "<group>"; };
 		25A15CFD266FD61D00529665 /* 20_Valid_Parentheses.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 20_Valid_Parentheses.h; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				250636502693B8240009CAC7 /* Max_Sum_Subarray_of_size_k.h */,
 				25921E4426CC7B1D0052A652 /* GenerateBinaryNumbers_Q.h */,
 				25921E4626CD6F970052A652 /* Find_Min_Value_In_BST.h */,
+				25921E4826CD765C0052A652 /* Total_Numbers_of_Words_in_Trie.h */,
 			);
 			path = Random;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				256F0FFA2643377600589939 /* Libraries.h */,
 				256F0FFE26445A3D00589939 /* ListNode.h */,
 				25294AA126863411007E95F4 /* TreeNode.h */,
+				25921E4726CD713E0052A652 /* TrieNode.h */,
 				256F0FFF26445B4300589939 /* Helper_Functions.h */,
 			);
 			path = Helper;
