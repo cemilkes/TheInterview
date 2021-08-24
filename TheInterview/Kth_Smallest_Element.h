@@ -56,6 +56,17 @@ int findKthSmallestNumber(const vector<int> &nums, int k) {
 
  */
 
+
+/* Static Array
+ 
+ int findKthSmallest(int arr[], int size, int k){
+     
+     sort(arr, arr+size);
+     int kthSmallest = arr[size - k];
+     return kthSmallest;
+     
+ }
+ */
 // MARK: - #MAIN
 
 /*
