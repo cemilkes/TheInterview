@@ -43,6 +43,7 @@
 		2553A59126695DCC00D8A8EC /* 268_Find_Missing_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 268_Find_Missing_Number.h; sourceTree = "<group>"; };
 		2568A09D266BF94E0049DF12 /* 202_Happy_Number.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 202_Happy_Number.h; sourceTree = "<group>"; };
 		2568A09E266C03A00049DF12 /* 8_Stoi.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 8_Stoi.h; sourceTree = "<group>"; };
+		256985F326D6F06B007C953D /* Find_Kth_Largest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Find_Kth_Largest.h; sourceTree = "<group>"; };
 		256F0FF92643143E00589939 /* 141_LinkedList_Cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 141_LinkedList_Cycle.h; sourceTree = "<group>"; };
 		256F0FFA2643377600589939 /* Libraries.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libraries.h; sourceTree = "<group>"; };
 		256F0FFB264345E900589939 /* 876_Middle_of_the_LL.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = 876_Middle_of_the_LL.h; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 				25921E4426CC7B1D0052A652 /* GenerateBinaryNumbers_Q.h */,
 				25921E4626CD6F970052A652 /* Find_Min_Value_In_BST.h */,
 				25921E4826CD765C0052A652 /* Total_Numbers_of_Words_in_Trie.h */,
+				256985F326D6F06B007C953D /* Find_Kth_Largest.h */,
 			);
 			path = Random;
 			sourceTree = "<group>";

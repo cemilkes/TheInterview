@@ -21,7 +21,6 @@ int findKthSmallestNumber(const vector<int> &nums, int k) {
           maxHeap.push_back(nums[i]);
           push_heap(maxHeap.begin(), maxHeap.end());
         }
-
     }
 
     return maxHeap.front();
